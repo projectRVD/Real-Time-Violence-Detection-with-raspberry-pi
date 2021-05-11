@@ -1,4 +1,4 @@
-# Project RVD : Realtime Violence Detection
+# Project RVD : Realtime Violence Detection with Raspberry-pi
 
 Client: ITWILL
 Ends at: 2021/05/17
