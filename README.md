@@ -3,7 +3,7 @@
 * Client: ITWILL
 * Starts at: 2021/04/08
 * Ends at: 2021/05/17
-* Participants: Sookwang Lee, Hyewon Rho, Jeonghun Park, Jimin Chae, Youngmin Choi
+* Participants: Sukwang Lee, Hyewon Rho, Jeonghun Park, Jimin Chae, Youngmin Choi
 
 # *Introduce*
 
@@ -36,5 +36,6 @@
 [projectRVD/Real-Time-Violence-Detection-with-raspberry-pi](https://github.com/projectRVD/Real-Time-Violence-Detection-with-raspberry-pi)
 
 # *Result*
+![KakaoTalk_20210511_142613451](https://user-images.githubusercontent.com/76435473/117762902-e72ea680-b264-11eb-8030-70ef13c03eba.gif)
 
 # *Reference*
