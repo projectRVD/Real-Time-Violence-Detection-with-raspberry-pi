@@ -3,7 +3,7 @@
 * Client: ITWILL
 * Starts at: 2021/04/08
 * Ends at: 2021/05/17
-* Participants: Sukwang Lee, Hyewon Rho, Jeonghun Park, Jimin Chae, Youngmin Choi
+* Participants: Sookwang Lee(@Sookwanglee), Hyewon Rho, Jeonghun Park, Jimin Chae, Youngmin Choi
 
 # *Introduce*
 
