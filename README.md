@@ -1,10 +1,9 @@
 # Project RVD : Realtime Violence Detection with Raspberry-pi
 
-Client: ITWILL
-Ends at: 2021/05/17
-Participants: Sukwang Lee, Hyewon Rho, Jeonghun Park, Jimin Chae, Youngmin Choi
-Starts at: 2021/04/08
-Status: Ongoing
+* Client: ITWILL
+* Starts at: 2021/04/08
+* Ends at: 2021/05/17
+* Participants: Sukwang Lee, Hyewon Rho, Jeonghun Park, Jimin Chae, Youngmin Choi
 
 # *Introduce*
 
@@ -12,9 +11,6 @@ Status: Ongoing
 - 폭력 감지 후 영상에 폭력 감지 결과를 자막으로 송출
 - 라즈베리파이를 사용한 실시간 영상에 폭력 감지 결과 송출
 
-# *Task Log*
-
-[Project Task : Realtime Violence Detection](https://www.notion.so/a4a7ac62f06c4177b46f520edf67e1c0)
 
 # *Must to know*
 
