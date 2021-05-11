@@ -11,6 +11,7 @@
 - 폭력 감지 후 영상에 폭력 감지 결과를 자막으로 송출
 - 라즈베리파이를 사용한 실시간 영상에 폭력 감지 결과 송출
 
+![Video files-bro](https://user-images.githubusercontent.com/75024126/117761783-f01e7880-b262-11eb-81bc-bd90fc22038a.png)
 
 # *Must to know*
 
