@@ -5,13 +5,13 @@
 * Ends at: 2021/05/17
 * Participants: Sukwang Lee, Hyewon Rho, Jeonghun Park, Jimin Chae, Youngmin Choi
 
+![크기변환 Video files-bro](https://user-images.githubusercontent.com/75024126/117761872-12b09180-b263-11eb-999e-7cc4c573fd05.png)
+
 # *Introduce*
 
 - MobileNet+LSTM을 사용한 비디오 이진 분류, 폭력 상황 감지
 - 폭력 감지 후 영상에 폭력 감지 결과를 자막으로 송출
 - 라즈베리파이를 사용한 실시간 영상에 폭력 감지 결과 송출
-
-![Video files-bro](https://user-images.githubusercontent.com/75024126/117761783-f01e7880-b262-11eb-81bc-bd90fc22038a.png)
 
 # *Must to know*
 
