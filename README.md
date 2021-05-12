@@ -41,6 +41,8 @@
 
 ## Change of Accuracy & Loss
 
+* **Result Log** : https://github.com/projectRVD/Real-Time-Violence-Detection-with-raspberry-pi/blob/main/RVD_result_log.csv
+
 ![RVD_result_model_comparison](https://user-images.githubusercontent.com/75024126/117956567-21c33c80-b354-11eb-9768-aac0ed1fc5ef.png)
 ![RVD_result_log](https://user-images.githubusercontent.com/75024126/117956574-238d0000-b354-11eb-81ff-de111fa69851.png)
 
