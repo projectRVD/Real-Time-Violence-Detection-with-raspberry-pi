@@ -48,8 +48,15 @@
 
 # *Reference*
 
-* RWF2000 : https://github.com/pedrofrodenas/Violence-Detection-CNN-LSTM/blob/master/violence_detection.ipynb
+## Datasets
+
+* RWF2000 : https://github.com/mchengny/RWF2000-Video-Database-for-Violence-Detection
 * Hocky : http://visilab.etsii.uclm.es/personas/oscar/FightDetection/index.html
 * raw.zip : https://github.com/niyazed/violence-video-classification
 * cam1, cam2 : https://github.com/airtlab/A-Dataset-for-Automatic-Violence-Detection-in-Videos/tree/master/violence-detection-dataset/non-violent/cam1
-* Itwill : 21.04.22., 21.05.04., 21.05.06., 21.05.11. 
+* Itwill : 
+
+## We're Inspired from them
+
+* Pedro Frodenas's Github : https://github.com/pedrofrodenas/Violence-Detection-CNN-LSTM/blob/master/violence_detection.ipynb
+* Souhaiel BenSalem's Github : https://github.com/shouhaiel1/CNN-LSTM-Violence-detection
