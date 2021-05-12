@@ -1,4 +1,4 @@
-﻿Date,Accuracy,Loss,Base Model
+﻿Date,Accuracy,Loss,Base_Model
 2021.04.14,0.6183,0.6372,VGG16
 2021.04.15,0.7574,0.1766,VGG16
 2021.04.19,0.7635,0.2006,VGG19
