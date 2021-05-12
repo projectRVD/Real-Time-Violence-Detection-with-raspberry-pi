@@ -38,6 +38,14 @@
 [projectRVD/Real-Time-Violence-Detection-with-raspberry-pi](https://github.com/projectRVD/Real-Time-Violence-Detection-with-raspberry-pi)
 
 # *Result*
+
+## Change of Accuracy & Loss
+
+![RVD_result_model_comparison](https://user-images.githubusercontent.com/75024126/117956567-21c33c80-b354-11eb-9768-aac0ed1fc5ef.png)
+![RVD_result_log](https://user-images.githubusercontent.com/75024126/117956574-238d0000-b354-11eb-81ff-de111fa69851.png)
+
+## Result Examples
+
 ![ezgif-4-3dc74782d191](https://user-images.githubusercontent.com/75024126/117774684-b9e9f480-b274-11eb-978a-060f21ffd1af.gif)
 ![ezgif-4-15e71033eab4](https://user-images.githubusercontent.com/75024126/117774703-bce4e500-b274-11eb-8e3c-14f54d7a8743.gif)
 ![ezgif-4-7a9fd72fa7c9](https://user-images.githubusercontent.com/75024126/117774858-dd14a400-b274-11eb-941a-aaf8e45eb8a7.gif)
