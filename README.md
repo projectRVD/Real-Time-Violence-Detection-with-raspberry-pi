@@ -24,18 +24,9 @@
 - Pycharm
 - Raspberry Pi & Camera Module
 
-# *Datasets*
+# *Model*
 
-
-
-- RWF2000
-- Hocky
-- Raw.zip
-- itwill
-
-# *Github*
-
-[projectRVD/Real-Time-Violence-Detection-with-raspberry-pi](https://github.com/projectRVD/Real-Time-Violence-Detection-with-raspberry-pi)
+MobileNet(Pre-trained Model) + LSTM
 
 # *Result*
 
