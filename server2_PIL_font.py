@@ -50,7 +50,7 @@ while True:  # show streamed images until Ctrl-C
     frame = resize(frm, (160, 160, 3))  # > input 배열을 (160, 160, 3)으로 변환
     frame_list.append(frame)  # 각 프레임 배열 (160, 160, 3)이 append 된다.
 
-    if frame_counter == 30:  # 프레임 카운터가 30이 된 순간. len(frame_list)==30이 된 순간.
+    if frame_counter >= 30:  # 프레임 카운터가 30이 된 순간. len(frame_list)==30이 된 순간.
         # . ----- 1초=30프레임마다 묶어서 예측(.predict) -----
         # . ----- 1초 동안 (1, 30, 160, 160, 3) 배열을 만들어 모델에 투입 ---
         # . ----- 예측 결과(1초)를 output에 씌워 준다. -----
@@ -64,10 +64,10 @@ while True:  # show streamed images until Ctrl-C
         # video_frm_ar[i][:]=frame_ar #> (i, fps, 160, 160, 3). i번째 1초짜리 영상(30프레임) 배열 파일이 된다.
         # print(video_frm_ar.shape)
 
-        # VGG19로 초당 프레임 이미지 배열로부터 특성 추출 : (1*30, 5, 5, 512)
-        pred_imgarr = base_model.predict(frame_ar)  # > (30, 5, 5, 512)
-        # 추출된 특성 배열들을 1차원으로 변환 : (1, 30, 5*5*512)
-        pred_imgarr_dim = pred_imgarr.reshape(1, pred_imgarr.shape[0], 5 * 5 * 1024)  # > (1, 30, 12800)
+        # MobileNet로 초당 프레임 이미지 배열로부터 특성 추출 : (1*30, 5, 5, 1024)
+        pred_imgarr = base_model.predict(frame_ar)  # > (30, 5, 5, 1024)
+        # 추출된 특성 배열들을 1차원으로 변환 : (1, 30, 5*5*1024)
+        pred_imgarr_dim = pred_imgarr.reshape(1, pred_imgarr.shape[0], 5 * 5 * 1024)  # > (1, 30, 25600)
         # 각 프레임 폭력 여부 예측값을 0에 저장
         preds = model.predict(pred_imgarr_dim)  # > (True, 0.99) : (폭력여부, 폭력확률)
         print(f'preds:{preds}')
@@ -107,8 +107,6 @@ while True:  # show streamed images until Ctrl-C
         if (preds[0][1]) < th:  # > 폭력일 확률이 th보다 작으면 정상
             text1_1 = 'Normal'
             text1_2 = '{:.2f}%'.format(100 - (maxprob * 100))
-            #cv2.putText(output, text1_1, (int(0.025 * W), int(0.1 * H)), cv2.FONT_HERSHEY_TRIPLEX, fontScale, (0, 255, 0), 2)
-            #cv2.putText(output, text1_2, (int(0.025 * W), int(0.2 * H)), cv2.FONT_HERSHEY_TRIPLEX, fontScale, (0, 255, 0), 2)
             img_pil=Image.fromarray(output)
             draw=ImageDraw.Draw(img_pil)
             draw.text((int(0.025*W), int(0.025*H)), text1_1, font=font1, fill=(0,255,0,0))
@@ -118,8 +116,6 @@ while True:  # show streamed images until Ctrl-C
         else:  # > 폭력일 확률이 th보다 크면 폭력 취급
             text2_1 = 'Violence Alert!'
             text2_2 = '{:.2f}%'.format(maxprob * 100)
-            #cv2.putText(output, text2_1, (int(0.025 * W), int(0.1 * H)), cv2.FONT_HERSHEY_TRIPLEX, fontScale, (0, 0, 255), 2)
-            #cv2.putText(output, text2_2, (int(0.025 * W), int(0.2 * H)), cv2.FONT_HERSHEY_TRIPLEX, fontScale, (0, 0, 255), 2)
             img_pil=Image.fromarray(output)
             draw=ImageDraw.Draw(img_pil)
             draw.text((int(0.025*W), int(0.025*H)), text2_1, font=font1, fill=(0,0,255,0))
