@@ -13,12 +13,12 @@
 * The deep learning model used is MobileNet. For more information, refer to the Jupiter Directory.
 
 ## Client(.py)
-* **Run it on your raspberrypi
+**Run it on your raspberrypi**
 * **Use model** : Raspberry Pi 3+
 
 ## OpenCV must be installed on the Raspberry Pi.
 * This is the OpenCV(ver 4.1.2) download link I referenced.
-* **Download Link** : https://make.e4ds.com/make/learn_guide_view.asp?idx=116
+**Download Link :** https://make.e4ds.com/make/learn_guide_view.asp?idx=116
 
 
 ![210512_MobileNet_model_accuracy_epoch100](https://user-images.githubusercontent.com/75024126/117928225-3690d780-b336-11eb-94c9-e22fbc7a681c.png)
