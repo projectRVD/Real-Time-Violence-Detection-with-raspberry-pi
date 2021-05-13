@@ -54,7 +54,7 @@
 * cam1, cam2 : https://github.com/airtlab/A-Dataset-for-Automatic-Violence-Detection-in-Videos/tree/master/violence-detection-dataset/non-violent/cam1
 * Itwill : Please send me your mail. regenesis90@gmail.com
 
-## Sample video files
+## Examples
 * UCF Anomaly Detection Datasets : https://webpages.uncc.edu/cchen62/dataset.html
   * Those video files were used only for making output videos & GIFs.
 
