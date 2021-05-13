@@ -5,7 +5,7 @@
 * server2.py must be compiled with the client.py
 * server3.py can be used alone if only camera devices such as laptop webcams are connected.
 
-## In order to compile server.py normally, the following files must be additionally saved.
+## Additional files to make server.py work
 **Font File :** https://fonts.google.com/specimen/Raleway?query=ralewa#license
 * If you want to use a different font, modify the'ImageFont.truetype' part and use it.
 
