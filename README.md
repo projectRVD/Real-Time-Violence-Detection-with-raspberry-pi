@@ -52,7 +52,7 @@
 * Hocky : http://visilab.etsii.uclm.es/personas/oscar/FightDetection/index.html
 * raw.zip : https://github.com/niyazed/violence-video-classification
 * cam1, cam2 : https://github.com/airtlab/A-Dataset-for-Automatic-Violence-Detection-in-Videos/tree/master/violence-detection-dataset/non-violent/cam1
-* Itwill : Please send me your mail. regenesis90@gmail.com
+* RVD : Please send me your mail. regenesis90@gmail.com
 
 ## Examples
 * UCF Anomaly Detection Datasets : https://webpages.uncc.edu/cchen62/dataset.html
