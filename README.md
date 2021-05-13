@@ -9,21 +9,22 @@
 
 - Violence detection by using MobileNet + LSTM (Binary classification : Violence / Non-Violence)
 - Add captions of violence dection result on video screen (video file or realtime video streaming)
-- Using Raspberry-pi & camera module for realtime video streaming
+- Using Raspberry Pi & camera module for realtime video streaming
 
 # *Environment*
 
 - Linux OS
 - Python ≥ 3.8
-- OpenCV 4.5.1
-- Tensorflow ≥ 2
+- OpenCV ≥ 4
+- Tensorflow ≥ 2.4.0
 - Keras 2.4.0
 
 # *Tools*
 
 - Jupyterlab ≥ 3.0
 - Pycharm ≥ 2
-- Raspberry Pi & Camera Module
+- Raspberry Pi +3
+- Camera Module
 
 # *Model*
 
