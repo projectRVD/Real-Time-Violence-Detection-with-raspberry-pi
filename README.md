@@ -5,23 +5,24 @@
 * Ends at: 2021/05/17
 * Participants: Sukwang Lee, Hyewon Rho, Jeonghun Park, Jimin Chae, Youngmin Choi
 
-# *Introduce*
+# *Introduction*
 
-- MobileNet+LSTM을 사용한 비디오 이진 분류, 폭력 상황 감지
-- 폭력 감지 후 영상에 폭력 감지 결과를 자막으로 송출
-- 라즈베리파이를 사용한 실시간 영상에 폭력 감지 결과 송출
+- Violence detection by using MobileNet + LSTM (Binary classification : Violence / Non-Violence)
+- Add captions of violence dection result on video screen (video file or realtime video streaming)
+- Using Raspberry-pi & camera module for realtime video streaming
 
-# *Must to know*
+# *Environment*
 
-- Python 3.8
-- OpenCV
-- Tensorflow 2
-- Keras
+- Linux OS
+- Python ≥ 3.8
+- OpenCV 4.5.1
+- Tensorflow ≥ 2
+- Keras 2.4.0
 
 # *Tools*
 
 - Jupyterlab ≥ 3.0
-- Pycharm
+- Pycharm ≥ 2
 - Raspberry Pi & Camera Module
 
 # *Model*
@@ -59,7 +60,7 @@ MobileNet(Pre-trained Model) + LSTM
 
 ## Sample video files
 * UCF Anomaly Detection Datasets : https://webpages.uncc.edu/cchen62/dataset.html
-  * Those video files were used for only for making output videos & GIFs.
+  * Those video files were used only for making output videos & GIFs.
 
 ## We're Inspired from them
 
