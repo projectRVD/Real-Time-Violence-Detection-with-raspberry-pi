@@ -65,5 +65,5 @@ MobileNet(Pre-trained Model) + LSTM
 
 ## We're Inspired from them
 
-* Pedro Frodenas's Github : [Pedro Frodenas](https://github.com/pedrofrodenas/Violence-Detection-CNN-LSTM/blob/master/violence_detection.ipynb)
-* Souhaiel BenSalem's Github : [Souhaiel BenSalem](https://github.com/shouhaiel1/CNN-LSTM-Violence-detection)
+* [Pedro Frodenas's Github](https://github.com/pedrofrodenas/Violence-Detection-CNN-LSTM/blob/master/violence_detection.ipynb)
+* [Souhaiel BenSalem's Github](https://github.com/shouhaiel1/CNN-LSTM-Violence-detection)
