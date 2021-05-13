@@ -3,7 +3,7 @@
 * Client: J.Oh
 * Starts at: 2021/04/08
 * Ends at: 2021/05/17
-* Members: [Sukwang Lee](https://github.com/SookwangLee), [Hyewon Rho](https://github.com/rhohye22), [Jeonghun Park](https://github.com/berojung), [Jimin Chae](https://github.com/regenesis90), Youngmin Choi
+* Members: [Sukwang Lee](https://github.com/SookwangLee), [Hyewon Rho](https://github.com/rhohye22), [Jeonghun Park](https://github.com/berojung), [Jimin Chae](https://github.com/regenesis90), Yeong-Min Choi
 
 # *Introduction*
 
