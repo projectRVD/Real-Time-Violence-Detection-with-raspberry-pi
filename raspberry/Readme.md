@@ -1,3 +1,4 @@
+
 # 21.05.13 CODE Updated
 
 ## Server(.py)
@@ -20,6 +21,6 @@
 * This is the OpenCV(ver 4.1.2) download link I referenced.
 **Download Link :** https://make.e4ds.com/make/learn_guide_view.asp?idx=116
 
-
+## Simulation
 ![210512_MobileNet_model_accuracy_epoch100](https://user-images.githubusercontent.com/75024126/117928225-3690d780-b336-11eb-94c9-e22fbc7a681c.png)
 ![210512_MobileNet_model_loss_epoch100](https://user-images.githubusercontent.com/75024126/117928234-38f33180-b336-11eb-9427-f2ed5f119339.png)
