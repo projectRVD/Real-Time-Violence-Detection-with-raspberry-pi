@@ -15,8 +15,8 @@
 * Accuracy : 0.831944465637207
 * Loss : 0.13901832699775696
 
-![210512_MobileNet_model_accuracy_epoch100](https://user-images.githubusercontent.com/75024126/117928225-3690d780-b336-11eb-94c9-e22fbc7a681c.png)
-![210512_MobileNet_model_loss_epoch100](https://user-images.githubusercontent.com/75024126/117928234-38f33180-b336-11eb-9427-f2ed5f119339.png)
+![210512_MobileNet_model_accuracy_epoch100](https://user-images.githubusercontent.com/75024126/118084494-c8aee380-b3fb-11eb-9a23-6980f9a3d8e1.jpg)
+![210512_MobileNet_model_loss_epoch100](https://user-images.githubusercontent.com/75024126/118084500-ca78a700-b3fb-11eb-8b4e-ab842173c565.jpg)
 
 ## How to download Raleway Font?
 * **Download at Google Font** : https://fonts.google.com/specimen/Raleway?query=ralewa#license
