@@ -1,4 +1,4 @@
-# Project RVD : Realtime Violence Detection with Raspberry-pi
+# Project RVD : Realtime Violence Detection with Raspberry Pi
 
 * Client: ITWILL
 * Starts at: 2021/04/08
