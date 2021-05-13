@@ -1,6 +1,6 @@
 # 21.05.13 CODE Updated
 
-## .ipynb File Explanation : 
+## Usage of each .ipynb file
 * 01 : Video file data preprocessing
 * 02 : Video file data preprocessing
 * 03 : Extracting features from video files by using MobileNet(pre-trained model)
@@ -11,7 +11,7 @@
 ## Our LSTM Model file(.h5)
 * **Download Link** : https://drive.google.com/file/d/1z4UKAkhyItFCJ7aue3FNfCVN5jfsdkkU/view?usp=sharing
 
-## Final Accuracy & Loss (21.05.12.) :
+## Final Accuracy & Loss (21.05.12.)
 * Accuracy : 0.831944465637207
 * Loss : 0.13901832699775696
 
