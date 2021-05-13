@@ -3,13 +3,13 @@
 * Client: ITWILL
 * Starts at: 2021/04/08
 * Ends at: 2021/05/17
-* Participants: Sukwang Lee, Hyewon Rho, Jeonghun Park, Jimin Chae, Youngmin Choi
+* Members: [Sukwang Lee](https://github.com/SookwangLee), [Hyewon Rho](https://github.com/rhohye22), [Jeonghun Park](https://github.com/berojung), [Jimin Chae](https://github.com/regenesis90), Youngmin Choi
 
 # *Introduction*
 
-- Violence detection by using MobileNet + LSTM (Binary classification : Violence / Non-Violence)
-- Add captions of violence dection result on video screen (video file or realtime video streaming)
-- Using Raspberry Pi & camera module for realtime video streaming
+* Violence detection by using MobileNet + LSTM (Binary classification : Violence / Non-Violence)
+* Add captions of violence dection result on video screen (video file or realtime video streaming) **[>> Fast Link](https://github.com/projectRVD/Real-Time-Violence-Detection-with-raspberry-pi/tree/main/ver_jupyter)**
+* Using Raspberry Pi & camera module for realtime video streaming **[>> Fast Link](https://github.com/projectRVD/Real-Time-Violence-Detection-with-raspberry-pi/tree/main/raspberry)**
 
 # *Environment*
 
@@ -34,7 +34,7 @@ MobileNet(Pre-trained Model) + LSTM
 
 ## Change of Accuracy & Loss
 
-* **Result Log** : https://github.com/projectRVD/Real-Time-Violence-Detection-with-raspberry-pi/blob/main/RVD_result_log.csv
+* **Result Log** : **[View Table](https://github.com/projectRVD/Real-Time-Violence-Detection-with-raspberry-pi/blob/main/RVD_result_log.csv)**
 
 ![RVD_result_model_comparison](https://user-images.githubusercontent.com/75024126/117956567-21c33c80-b354-11eb-9768-aac0ed1fc5ef.png)
 ![RVD_result_log](https://user-images.githubusercontent.com/75024126/117956574-238d0000-b354-11eb-81ff-de111fa69851.png)
@@ -65,5 +65,5 @@ MobileNet(Pre-trained Model) + LSTM
 
 ## We're Inspired from them
 
-* Pedro Frodenas's Github : https://github.com/pedrofrodenas/Violence-Detection-CNN-LSTM/blob/master/violence_detection.ipynb
-* Souhaiel BenSalem's Github : https://github.com/shouhaiel1/CNN-LSTM-Violence-detection
+* Pedro Frodenas's Github : [Pedro Frodenas](https://github.com/pedrofrodenas/Violence-Detection-CNN-LSTM/blob/master/violence_detection.ipynb)
+* Souhaiel BenSalem's Github : [Souhaiel BenSalem](https://github.com/shouhaiel1/CNN-LSTM-Violence-detection)
