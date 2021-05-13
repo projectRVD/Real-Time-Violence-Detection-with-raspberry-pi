@@ -1,7 +1,7 @@
 # 21.05.13 CODE Updated
 
 ## Server(.py)
-* **Run it on your desktop
+**Run it on your desktop**
 * server2.py must be compiled with the client.py
 * server3.py can be used alone if only camera devices such as laptop webcams are connected.
 * 
