@@ -22,5 +22,4 @@
 **Download Link :** https://make.e4ds.com/make/learn_guide_view.asp?idx=116
 
 ## Simulation
-![210512_MobileNet_model_accuracy_epoch100](https://user-images.githubusercontent.com/75024126/117928225-3690d780-b336-11eb-94c9-e22fbc7a681c.png)
-![210512_MobileNet_model_loss_epoch100](https://user-images.githubusercontent.com/75024126/117928234-38f33180-b336-11eb-9427-f2ed5f119339.png)
+![KakaoTalk_20210511_174831663](https://user-images.githubusercontent.com/76435473/117787354-5a461600-b281-11eb-971d-c89878ce3e85.gif)
