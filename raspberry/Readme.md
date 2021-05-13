@@ -21,5 +21,10 @@
 * This is the OpenCV(ver 4.1.2) download link I referenced.
 **Download Link :** https://make.e4ds.com/make/learn_guide_view.asp?idx=116
 
+## Imagezmq
+* Real-time transfer of image frames from Raspberry Pi to desktop.
+**Download Link :** https://pypi.org/project/imagezmq/
+
+
 ## Simulation
 ![KakaoTalk_20210511_174831663](https://user-images.githubusercontent.com/76435473/117787354-5a461600-b281-11eb-971d-c89878ce3e85.gif)
