@@ -2,10 +2,10 @@
 
 ## Usage of each .ipynb file
 * 01 : Video file data preprocessing
-* 02 : Video file data preprocessing
+* 02 : Making Training set & Test set
 * 03 : Extracting features from video files by using MobileNet(pre-trained model)
 * 04 : Training LSTM model & Evaluation
-* 05 : Actual Use for video file(.mp4, .avi)
+* 05 : Actual use for video file(.mp4, .avi)
 * 06 : Actual use for laptop webcam streaming(Realtime)
 
 ## Our LSTM Model file(.h5)
